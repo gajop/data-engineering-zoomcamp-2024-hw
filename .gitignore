@@ -1,3 +1,6 @@
 .venv
 .terraform*
 terraform.tfstate*
+
+.env
+*dtc-de-course-2024-412615-a1d3884e0a82*
